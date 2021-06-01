@@ -1,8 +1,18 @@
 pipeline {
-  agent any
+  agent {
+    label ('NODEJS')
+  }
 
   stages {
 
+    stage('Downloade Dependencies') {
+      steps {
+        sh '''
+          npm install
+        '''
+      }
+    }
+    
     stage('Prepare Artifacts') {
       steps {
         sh '''
