@@ -16,7 +16,7 @@ pipeline {
     stage('Prepare Artifacts') {
       steps {
         sh '''
-          zip ../frontend.zip *
+          zip ../frontend.zip node_modules service.js
         '''
       }
     }
