@@ -57,5 +57,3 @@ Finally restart the service once to effect the changes by the below cammand.
 
 # npm start
 ```
-
-:)
