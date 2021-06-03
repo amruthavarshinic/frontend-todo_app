@@ -58,16 +58,10 @@ Finally restart the service once to effect the changes by the below cammand.
 # npm start
 ```
 ;)
-git tags
-;')
-:'(
-;D
-;'D
-;)
+
 # RELEASE 0.0.1 -DATE - 03-06-2021
 # RELEASE 0.0.3 -DATE - 03-06-2021
 # RELEASE 0.0.6 -DATE - 03-06-2021
 # RELEASE 0.0.7 -DATE - 03-06-2021
 # RELEASE v0.0.1 -DATE - 03-06-2021
-;D
-abhjfdv sjhbvjsdsanmdsayjfvdsjhvdshdfgdfgfhfrtdfcht
+# RELEASE 0.0.9 -DATE - 03-06-2021
