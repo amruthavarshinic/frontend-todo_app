@@ -62,5 +62,6 @@ git tags
 ;')
 :'(
 ;D
+;'D
 # RELEASE 0.0.1 -DATE - 03-06-2021
 # RELEASE 0.0.3 -DATE - 03-06-2021
