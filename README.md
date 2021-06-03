@@ -65,3 +65,4 @@ Finally restart the service once to effect the changes by the below cammand.
 # RELEASE v0.0.1 -DATE - 03-06-2021
 # RELEASE 0.0.9 -DATE - 03-06-2021
 # RELEASE 0.0.10 -DATE - 03-06-2021
+# RELEASE 0.0.11 -DATE - 03-06-2021
